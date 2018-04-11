@@ -1,0 +1,104 @@
+# Code Book
+
+This summarises the data fields in tidy.txt.
+
+## Identifiers
+
+* subject - Subject Identifiers
+* Levels: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+* activity - Type of activity corresponding to measurements
+* Levels: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
+
+
+## Measurements
+
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccMeanX
+* tGravityAccMeanY
+* tGravityAccMeanZ
+* tGravityAccStdX
+* tGravityAccStdY
+* tGravityAccStdZ
+* tBodyAccJerkMeanX
+* tBodyAccJerkMeanY
+* tBodyAccJerkMeanZ
+* tBodyAccJerkStdX
+* tBodyAccJerkStdY
+* tBodyAccJerkStdZ
+* tBodyGyroMeanX
+* tBodyGyroMeanY
+* tBodyGyroMeanZ
+* tBodyGyroStdX
+* tBodyGyroStdY
+* tBodyGyroStdZ
+* tBodyGyroJerkMeanX
+* tBodyGyroJerkMeanY
+* tBodyGyroJerkMeanZ
+* tBodyGyroJerkStdX
+* tBodyGyroJerkStdY
+* tBodyGyroJerkStdZ
+* tBodyAccMagMean
+* tBodyAccMagStd
+* tGravityAccMagMean
+* tGravityAccMagStd
+* tBodyAccJerkMagMean
+* tBodyAccJerkMagStd
+* tBodyGyroMagMean
+* tBodyGyroMagStd
+* tBodyGyroJerkMagMean
+* tBodyGyroJerkMagStd
+* fBodyAccMeanX
+* fBodyAccMeanY
+* fBodyAccMeanZ
+* fBodyAccStdX
+* fBodyAccStdY
+* fBodyAccStdZ
+* fBodyAccMeanFreqX
+* fBodyAccMeanFreqY
+* fBodyAccMeanFreqZ
+* fBodyAccJerkMeanX
+* fBodyAccJerkMeanY
+* fBodyAccJerkMeanZ
+* fBodyAccJerkStdX
+* fBodyAccJerkStdY
+* fBodyAccJerkStdZ
+* fBodyAccJerkMeanFreqX
+* fBodyAccJerkMeanFreqY
+* fBodyAccJerkMeanFreqZ
+* fBodyGyroMeanX
+* fBodyGyroMeanY
+* fBodyGyroMeanZ
+* fBodyGyroStdX
+* fBodyGyroStdY
+* fBodyGyroStdZ
+* fBodyGyroMeanFreqX
+* fBodyGyroMeanFreqY
+* fBodyGyroMeanFreqZ
+* fBodyAccMagMean
+* fBodyAccMagStd
+* fBodyAccMagMeanFreq
+* fBodyBodyAccJerkMagMean
+* fBodyBodyAccJerkMagStd
+* fBodyBodyAccJerkMagMeanFreq
+* fBodyBodyGyroMagMean
+* fBodyBodyGyroMagStd
+* fBodyBodyGyroMagMeanFreq
+* fBodyBodyGyroJerkMagMean
+* fBodyBodyGyroJerkMagStd
+* fBodyBodyGyroJerkMagMeanFreq
+
+## Labels
+
+Subject    Activity
+1          WALKING             -----   Walking during the subject test
+2          WALKING_UPSTAIRS    -----   Walking up a staircase during the subject test
+3          WALKING_DOWNSTAIRS  -----   Walking down a staircase during the subject test
+4          SITTING             -----   Sitting during the subject test
+5          STANDING            -----   Standing during the subject test
+6          LAYING              -----   Laying down during the subject test
